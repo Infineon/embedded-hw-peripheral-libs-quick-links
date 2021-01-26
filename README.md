@@ -4,7 +4,7 @@ Quick links to Infineon sensors, actuators and application specific ICs software
 
 **Each icon is a link :link: !** Click on them to go to the related repo :rocket: 
 
-Find more about the repository content type in the [Icon Links Glosssary](#Icons-Link-Glossary).
+Find more about the repository content type in the [Icon Links Glosssary](#icon-links-glossary).
 
 ## Magnetic Sensors
 
