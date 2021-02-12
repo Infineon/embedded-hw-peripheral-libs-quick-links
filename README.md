@@ -77,7 +77,9 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
                     <td> TLE5012B </td>
                     <td> 
                         <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/ino-logo.jpg" height="30px"></a>
-                    </td>
+                        <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/wiced-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/cpp-logo.png" height="30px"></a>
+                   </td>
                 </tr>
             </table>
         </td>
