@@ -12,7 +12,6 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
     <tr>
         <td><b>3D Magnetic Sensors</b></td>
         <td><b>Hall Switches</b></td>
-        <td><b>Angle Sensors</b></td>
     </tr>
     <tr>
         <td>
@@ -71,6 +70,13 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
                 </tr>
             </table>
         </td>
+    </tr>
+
+    <tr>
+        <td><b>Angle Sensors</b></td>
+		<td><b></b></td>
+    </tr>
+    <tr>
         <td>
             <table>
                 <tr>
@@ -83,6 +89,8 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
                 </tr>
             </table>
         </td>
+		<td>
+		</td>
     </tr>
 </table>
 
