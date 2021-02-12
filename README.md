@@ -71,7 +71,8 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
             </table>
         </td>
     </tr>
-
+</table>
+<table>
     <tr>
         <td><b>Angle Sensors</b></td>
 		<td><b></b></td>
