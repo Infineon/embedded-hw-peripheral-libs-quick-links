@@ -4,7 +4,7 @@ Quick links to Infineon sensors, actuators and application specific ICs software
 
 **Each icon is a link :link: !** Click on them to go to the related repo :rocket: 
 
-Find more about the repository content type in the [Icon Links Glosssary](#icon-links-glossary).
+Find more about the repository content type in the [Icon Links Glosssary](#Icons-Link-Glossary).
 
 ## Magnetic Sensors
 
@@ -86,6 +86,7 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
                         <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/ino-logo.jpg" height="30px"></a>
                         <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/wiced-logo.png" height="30px"></a>
                         <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/cpp-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor"><img src="img/processing3-logo.png" height="30px"></a>
                    </td>
                 </tr>
             </table>
@@ -179,9 +180,15 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
         <td>
             <table>
                 <tr>
-                    <td> TLE94112EL </td>
-                    <td> <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/ino-logo.jpg" height="30px">
-                    <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/wiced-logo.png" height="30px"></a></td>
+                    <td> multi-half-bridge<br \> (TLE94112) </td>
+                    <td>
+                        <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/ino-logo.jpg" height="30px"></a>
+                        <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/rpi-c-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/rpi-py-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/mtb-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/wiced-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/DC-Motor-Control-TLE94112EL"><img src="img/cpp-logo.png" height="30px"></a>
+                    </td>
                 </tr>
                 <tr>
                     <td> BTN8982TA </td>
@@ -215,6 +222,7 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
         </td>
     </tr>
 </table>
+
 
 ## Security Controllers
 
@@ -426,36 +434,10 @@ Find more about the repository content type in the [Icon Links Glosssary](#icon-
         <td> <img src="img/android-logo.png" height="50px"> </td>
     </tr>
     <tr>
+        <td> Processing  </td>
+        <td> <img src="img/processing3-logo.png" height="50px"> </td>
         <td> Technical Documentation </td>
         <td> <img src="img/doc-logo.png" height="50px"> </td>
     </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
