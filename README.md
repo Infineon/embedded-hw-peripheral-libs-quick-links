@@ -345,6 +345,15 @@ Find more about the repository content type in the [Icon Links Glosssary](#Icons
                     <td> BGT24LTR11 </td>
                     <td> <a href="https://github.com/Infineon/24GHz-Radar-for-Arduino"><img src="img/ino-logo.jpg" height="30px"></a></td>
                 </tr>
+                <tr>
+                    <td> BGT60LTR11AIP </td>
+                    <td> 
+			<a href="https://github.com/Infineon/arduino-radar-bgt60"><img src="img/ino-logo.jpg" height="30px"></a>
+                        <a href="https://github.com/Infineon/radar-bgt60"><img src="img/rpi-c-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/radar-bgt60"><img src="img/rpi-py-logo.png" height="30px"></a>
+                        <a href="https://github.com/Infineon/radar-bgt60"><img src="img/cpp-logo.png" height="30px"></a>
+	           </td>
+                </tr>
             </table>
         </td>
     </tr>
