@@ -128,8 +128,11 @@ Find more about the repository content type in the [Icon Links Glosssary](#Icons
             <table>
                 <tr>
                     <td> PAS XENSIV™ CO2 </td>
-                    <td> Coming soon! </td>
-                </tr>
+                    <td>
+			<a href="https://github.com/Infineon/pas-co2-sensor"><img src="img/cpp-logo.png" height="30px"></a>
+			<a href="https://github.com/Infineon/arduino-pas-co2-sensor"><img src="img/ino-logo.jpg" height="30px"></a>
+		    </td>
+		</tr>
             </table>
         </td>
     </tr>
